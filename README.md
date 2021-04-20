@@ -30,8 +30,6 @@ You can find some of my professional experience with the technologies listed in 
 
 ---
 
----
-
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
@@ -44,6 +42,15 @@ You can find some of my professional experience with the technologies listed in 
 
 
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UCi5VvNt5MKS3ustu6Ng5enQ?sub_confirmation=1)
+
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://angeliski.com.br)
 
 ---
 

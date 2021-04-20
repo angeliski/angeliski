@@ -1,16 +1,53 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rogerio Angeliski!
 
-<!--
-**angeliski/angeliski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi5VvNt5MKS3ustu6Ng5enQ?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCi5VvNt5MKS3ustu6Ng5enQ?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/angeliski_?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=angeliski_) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCi5VvNt5MKS3ustu6Ng5enQ?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCi5VvNt5MKS3ustu6Ng5enQ?sub_confirmation=1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeliski)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/maestriaaa/)
+
+
+A Software engineer working to build a better world.
+
+I believe technology is a way to great things, but not the only way.
+
+I like to write code, but I prefer deliver value to business and for that coding is not always necessary.
+
+I learned at my career that we need more than technical hard skills to be a great professional and self-knowledge will help me to going more fast and further.
+
+I am a tenacious seeker, always asking.
+Not to be rude, but to understand the context, the situation, the purpose. That said, I believe don't exist silly question.
+
+I try to be 1% better every day and I don't want to go alone in that journey so I share the little I know writing texts, videos and any other way I can find.
+
+You can find some of my professional experience with the technologies listed in the **toolbox** below.
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-2.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" alt="Golang Gopher Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/>
+
+---
+
+---
+
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCi5VvNt5MKS3ustu6Ng5enQ?sub_confirmation=1)
+
+---
+
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://angeliski-stats.vercel.app/api/top-langs/?username=angeliski&hide=html,css,scss,typescript,dart&theme=radical&langs_count=15&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Angeliski's GitHub stats](https://angeliski-stats.vercel.app/api?username=angeliski&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Angeliski's wakatime stats](https://angeliski-stats.vercel.app/api/wakatime?username=angeliski&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+

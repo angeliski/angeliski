@@ -33,11 +33,11 @@ You can find some of my professional experience with the technologies listed in 
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Team Lead ou Tech Lead - Liderança na tecnologia](https://www.youtube.com/watch?v=JSnEbU6iOVo)
 - [Frontend moderno com micro-frontends](https://www.youtube.com/watch?v=NiGvvqXaZIM)
 - [Você tem dormindo bem o suficiente?](https://www.youtube.com/watch?v=19kkPe8QMB0)
 - [Chega de não atingir suas metas](https://www.youtube.com/watch?v=XJa2mEEHm3c)
 - [Dificuldade para aprender - será que eu sou burro?](https://www.youtube.com/watch?v=8ShEq8HN-2Q)
+- [O que eu faço com tanta raiva?](https://www.youtube.com/watch?v=W0vO7Obb-Ow)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 

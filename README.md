@@ -33,6 +33,10 @@ You can find some of my professional experience with the technologies listed in 
 📘 Latest in Maestria Newsletter
 
 <!-- MAESTRIA-POST-LIST:START -->
+- [O que significa 1% melhor todo dia?](https://maestria.substack.com/p/ser-melhor-todo-dia)
+- [Ilhas de conhecimento](https://maestria.substack.com/p/ilhas-conhecimento)
+- [Porque surgiu a ideia do Maestria?](https://maestria.substack.com/p/como-tudo-comecou)
+- [&#128170;&#127998; Ningu&#233;m nasce mestre, a gente busca ser um.](https://maestria.substack.com/p/coming-soon)
 <!-- MAESTRIA-POST-LIST:END -->
 
 ▶ [...more newsletter articles](https://maestria.substack.com/)

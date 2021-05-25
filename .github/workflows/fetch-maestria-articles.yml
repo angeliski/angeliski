@@ -1,0 +1,18 @@
+name: Latest Maestria Articles
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest Maestria articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MAESTRIA-POST-LIST"
+          commit_message: "Updated with the latest Maestria articles"
+          feed_list: "https://maestria.substack.com/feed.xml"

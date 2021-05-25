@@ -30,6 +30,15 @@ You can find some of my professional experience with the technologies listed in 
 
 ---
 
+📘 Latest in Maestria Newsletter
+
+<!-- MAESTRIA-POST-LIST:START -->
+<!-- MAESTRIA-POST-LIST:END -->
+
+▶ [...more newsletter articles](https://maestria.substack.com/)
+
+---
+
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->

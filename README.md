@@ -33,6 +33,7 @@ You can find some of my professional experience with the technologies listed in 
 📘 Latest in Maestria Newsletter
 
 <!-- MAESTRIA-POST-LIST:START -->
+- [FOMO - Fear Of Missing Out](https://maestria.substack.com/p/fomo)
 - [O que significa 1% melhor todo dia?](https://maestria.substack.com/p/ser-melhor-todo-dia)
 - [Ilhas de conhecimento](https://maestria.substack.com/p/ilhas-conhecimento)
 - [Porque surgiu a ideia do Maestria?](https://maestria.substack.com/p/como-tudo-comecou)

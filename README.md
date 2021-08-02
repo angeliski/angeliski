@@ -7,18 +7,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/maestriaaa/)
 
 
-A Software engineer working to build a better world.
+A Software engineer working to build a better world. 
 
-I believe technology is a way to great things, but not the only way.
+I believe technology is a way to achieve great things, but not the only one. 
 
-I like to write code, but I prefer deliver value to business and for that coding is not always necessary.
+I like to code but I prefer to deliver value to business and to do so coding is not always necessary. 
 
-I learned at my career that we need more than technical hard skills to be a great professional and self-knowledge will help me to going more fast and further.
+I learned in my career that we need more than technical hard skills to be a great professional and self-knowledge helps me to go faster and further. 
 
-I am a tenacious seeker, always asking.
-Not to be rude, but to understand the context, the situation, the purpose. That said, I believe don't exist silly question.
+I am a tenacious seeker , I’m always asking. Not to be rude but to understand the context, the situation and the purpose. That said, I believe silly questions don't exist. 
 
-I try to be 1% better every day and I don't want to go alone in that journey so I share the little I know writing texts, videos and any other way I can find.
+I try to be 1% better every day and since I don't want to walk this journey alone, I share the little I know by writing texts, making videos and any other way I can find. 
+
 
 You can find some of my professional experience with the technologies listed in the **toolbox** below.
 

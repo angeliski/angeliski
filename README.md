@@ -71,6 +71,11 @@ You can find some of my professional experience with the technologies listed in 
 
 ▶ [...more blog articles](https://angeliski.com.br)
 
+Medium
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
+
+▶ [...more blog articles](https://medium.com/@angeliski)
 ---
 
 

@@ -73,11 +73,11 @@ You can find some of my professional experience with the technologies listed in 
 
 Medium
 <!-- MEDIUM-POST-LIST:START -->
+- [Do desconhecido a estrela do YouTube](https://medium.com/@angeliski/do-desconhecido-a-estrela-do-youtube-c0bb54c354f6?source=rss-21295d9629a5------2)
 - [Developer Experience — Chapter One](https://medium.com/rd-shipit/developer-experience-chapter-one-11d3f3499899?source=rss-21295d9629a5------2)
 - [Dotfiles — Como fazer sua vida mais fácil](https://medium.com/rd-shipit/dotfiles-como-fazer-sua-vida-mais-f%C3%A1cil-82509b63f022?source=rss-21295d9629a5------2)
 - [FOMO — Fear Of Missing Out](https://medium.com/rd-shipit/fomo-fear-of-missing-out-1769fff46627?source=rss-21295d9629a5------2)
 - [Construindo uma Engine dentro da sua Gem](https://medium.com/rd-shipit/construindo-uma-engine-dentro-da-sua-gem-d58c53655846?source=rss-21295d9629a5------2)
-- [Building Stability](https://medium.com/rd-shipit/building-stability-8a20ecf14256?source=rss-21295d9629a5------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 ▶ [...more blog articles](https://medium.com/@angeliski)

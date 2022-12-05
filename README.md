@@ -62,11 +62,11 @@ You can find some of my professional experience with the technologies listed in 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Construindo uma Engine dentro da sua Gem](https://angeliski.com.br/construindo-uma-engine-dentro-da-sua-gem/)
-- [Comunicação Violenta - Porque a gente gosta é de pancadaria](https://angeliski.com.br/comunicacao-violenta-porque-a-gente-gosta-e-de-pancadaria/)
-- [Teorema CAP - O que é isso?](https://angeliski.com.br/teorema-cap-o-que-e-isso/)
-- [Caching - Serve pra que?](https://angeliski.com.br/caching-serve-pra-que/)
-- [Sobre mim](https://angeliski.com.br/about/)
+- [Developer Experience — Chapter One](https://angeliski.com.br/developer-experience-chapter-one)
+- [Construindo uma Engine dentro da sua Gem](https://angeliski.com.br/construindo-uma-engine-dentro-da-sua-gem)
+- [Comunicação Violenta - Porque a gente gosta é de pancadaria](https://angeliski.com.br/comunicacao-violenta-porque-a-gente-gosta-e-de-pancadaria)
+- [Teorema CAP - O que é isso?](https://angeliski.com.br/teorema-cap-o-que-e-isso)
+- [Caching - Serve pra que?](https://angeliski.com.br/caching-serve-pra-que)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://angeliski.com.br)

@@ -73,11 +73,11 @@ You can find some of my professional experience with the technologies listed in 
 
 Medium
 <!-- MEDIUM-POST-LIST:START -->
+- [Tech + Lead](https://medium.com/rd-shipit/tech-lead-5ccf72bd9103?source=rss-21295d9629a5------2)
 - [Backstage — O que é isso?](https://medium.com/rd-shipit/backstage-o-que-%C3%A9-isso-2038eb90ca0e?source=rss-21295d9629a5------2)
 - [Developer Experience — Chapter Two](https://medium.com/rd-shipit/developer-experience-chapter-two-385205abf6ca?source=rss-21295d9629a5------2)
 - [Do desconhecido a estrela do YouTube](https://medium.com/@angeliski/do-desconhecido-a-estrela-do-youtube-c0bb54c354f6?source=rss-21295d9629a5------2)
 - [Developer Experience — Chapter One](https://medium.com/rd-shipit/developer-experience-chapter-one-11d3f3499899?source=rss-21295d9629a5------2)
-- [Dotfiles — Como fazer sua vida mais fácil](https://medium.com/rd-shipit/dotfiles-como-fazer-sua-vida-mais-f%C3%A1cil-82509b63f022?source=rss-21295d9629a5------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 ▶ [...more blog articles](https://medium.com/@angeliski)

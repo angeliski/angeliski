@@ -47,11 +47,11 @@ You can find some of my professional experience with the technologies listed in 
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Fernando Ike - Plataforma e seus contratos fortes](https://www.youtube.com/watch?v=k71AL0JyDW4)
 - [DORA Metrics - Não é a Dora aventureira, mas vale a pena ver](https://www.youtube.com/watch?v=qvJX5aXd3JY)
 - [Nando Sousa - Do Oiapoque ao Plataform Engineering](https://www.youtube.com/watch?v=XZ--xuo52Q0)
 - [DevExp, Platform Engineering, afinal o que é tudo isso?](https://www.youtube.com/watch?v=ZpDPvY4k_TA)
 - [Team Lead ou Tech Lead - Liderança na tecnologia](https://www.youtube.com/watch?v=JSnEbU6iOVo)
-- [Frontend moderno com micro-frontends](https://www.youtube.com/watch?v=NiGvvqXaZIM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 

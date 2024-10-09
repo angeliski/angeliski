@@ -62,11 +62,11 @@ You can find some of my professional experience with the technologies listed in 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Kind Engineering](https://angeliski.com.br/kind-engineering)
 - [Tech + Lead](https://angeliski.com.br/tech-lead)
 - [Backstage — O que é isso?](https://angeliski.com.br/backstage-o-que-e-isso)
 - [Developer Experience — Chapter Two](https://angeliski.com.br/developer-experience-chapter-two)
 - [Do desconhecido a estrela do YouTube](https://angeliski.com.br/do-desconhecido-a-estrela-do-youtube)
-- [Developer Experience — Chapter One](https://angeliski.com.br/developer-experience-chapter-one)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://angeliski.com.br)

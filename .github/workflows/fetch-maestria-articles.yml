@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "MAESTRIA-POST-LIST"
           commit_message: "Updated with the latest Maestria articles"
-          feed_list: "https://maestria.substack.com/feed.xml"
+          feed_list: "https://maestria.tech/rss.xml"

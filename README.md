@@ -33,11 +33,11 @@ You can find some of my professional experience with the technologies listed in 
 📘 Latest in Maestria Newsletter
 
 <!-- MAESTRIA-POST-LIST:START -->
-- [O que são as soft skills?](https://maestria.substack.com/p/o-que-sao-as-soft-skills)
-- [A Obviedade da incerteza - Não é obvio?](https://maestria.substack.com/p/a-obviedade-da-incerteza-nao-e-obvio)
-- [FOMO - Fear Of Missing Out](https://maestria.substack.com/p/fomo)
-- [O que significa 1% melhor todo dia?](https://maestria.substack.com/p/ser-melhor-todo-dia)
-- [Ilhas de conhecimento](https://maestria.substack.com/p/ilhas-conhecimento)
+- [Como a revisão semanal me ajudou a ter mais clareza sobre a evolução da minha carreira](https://maestria.tech/como-a-revisao-semanal-me-ajudou-a-ter-mais-clareza-sobre-a-evolucao-da-minha-carreira)
+- [O que são as soft skills?](https://maestria.tech/o-que-sao-as-soft-skills)
+- [A Obviedade da incerteza - Não é obvio?](https://maestria.tech/a-obviedade-da-incerteza-nao-e-obvio)
+- [FOMO - Fear Of Missing Out](https://maestria.tech/fomo-fear-of-missing-out)
+- [O que significa 1% melhor todo dia?](https://maestria.tech/o-que-significa-1-melhor-todo-dia)
 <!-- MAESTRIA-POST-LIST:END -->
 
 ▶ [...more newsletter articles](https://maestria.substack.com/)
